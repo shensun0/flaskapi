@@ -1,1 +1,1 @@
-web: gunicorn: userdata:app
+web: gunicorn userdata:app
